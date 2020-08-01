@@ -1,0 +1,15 @@
+com\agencia\car\criteria\CocheCriteria.class
+com\agencia\car\service\CocheService.class
+com\agencia\car\entity\Coche_.class
+com\agencia\car\service\MarcaService.class
+com\agencia\car\AgenciaCarApplication.class
+com\agencia\car\entity\Modelo.class
+com\agencia\car\entity\Marca_.class
+com\agencia\car\ServletInitializer.class
+com\agencia\car\entity\Coche.class
+com\agencia\car\entity\Marca.class
+com\agencia\car\criteria\CocheCriteria$ColorFilter.class
+com\agencia\car\repository\CocheRepository.class
+com\agencia\car\repository\MarcaRepository.class
+com\agencia\car\enums\Color.class
+com\agencia\car\entity\Modelo_.class
